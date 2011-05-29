@@ -1,0 +1,11 @@
+{
+    "name": "hs-proxy",
+    "version": "0.1.0",
+    "description": "Proxy that maps incoming hostnames to ports on localhost",
+    "author": "defrex",
+    "bin": {"hsp": "./proxy.js"},
+    "dependencies": {
+        "cli": "0.2.8",
+        "underscore": "1.1.6"
+    }
+}
